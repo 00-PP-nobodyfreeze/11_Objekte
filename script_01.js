@@ -20,6 +20,7 @@
 // output(arr[0]);
 // output(arr[0][0]+ " " + arr[1][2]);
 // output(arr[1][0]);
+// output("------------");
 
 // // nested loop
 // for (let i = 0; i < arr.length; i++) {
@@ -31,10 +32,6 @@
 
 
 /***** Objekte 1 Daten/Funktionen *******/
-
-
-
-
 
 
 
