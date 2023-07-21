@@ -79,6 +79,7 @@ output(baikal);
 output(baikal.value);
 output(baikal.deep.deeper.deepest);
 output(baikal.deep.deeper.temperature);
+output(baikal["deep"]["deeper"])
 
 
 /** Ausgabe */
